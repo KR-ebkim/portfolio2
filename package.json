@@ -1,0 +1,39 @@
+{
+  "name": "portfolio3",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@j-t-mcc/vue3-chartjs": "^1.3.0",
+    "@mdi/font": "7.0.96",
+    "@tato30/vue-pdf": "^1.2.4",
+    "@types/pdfjs-dist": "^2.10.378",
+    "@vuepic/vue-datepicker": "^3.6.3",
+    "axios": "^1.2.0",
+    "chart.js": "^3.9.1",
+    "chartjs-plugin-datalabels": "^2.1.0",
+    "date-fns": "^2.29.3",
+    "i": "^0.3.7",
+    "lodash": "^4.17.21",
+    "pinia": "^2.0.27",
+    "roboto-fontface": "*",
+    "vue": "^3.2.45",
+    "vue-cal": "^4.8.1",
+    "vue-chartjs": "^4.1.2",
+    "vue-router": "^4.1.6",
+    "vue3-pdfjs": "^0.1.6",
+    "vue3-table-lite": "^1.2.9",
+    "vuetify": "^3.0.2",
+    "webfontloader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "vite": "^3.2.4",
+    "vite-plugin-fonts": "^0.6.0",
+    "vite-plugin-pwa": "^0.13.3",
+    "vite-plugin-vuetify": "^1.0.0"
+  }
+}
